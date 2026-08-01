@@ -287,7 +287,7 @@ Focus: Backend + Full Stack
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shibinayaa07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=F0F6FC" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shibinayaa07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=F0F6FC" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Shibinayaa07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=F0F6FC" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibinayaa07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC" />
 
