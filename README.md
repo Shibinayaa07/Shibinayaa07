@@ -19,7 +19,7 @@ Theme: Cyberpunk + Glassmorphism + Minimal + Mission Control
 
 ---
 
-## 🛰️ 01 — Premium Hero Banner
+## 🛰️ Welcome to my Workspace
 
 <section>
   <p>
@@ -35,7 +35,7 @@ Theme: Cyberpunk + Glassmorphism + Minimal + Mission Control
 
 <img src="./assets/animations/pulse-divider.svg" width="100%" alt="divider"/>
 
-## 🧠 02 — Animated Typing Header
+## 🧠 System Initialization
 
 ```txt
 $ profile.init --user Shibinayaa07 --mode premium
@@ -58,7 +58,7 @@ $ profile.init --user Shibinayaa07 --mode premium
 
 ---
 
-## 🧩 03 — Developer Dashboard
+## 🧩 Telemetry & Focus
 
 <div align="center">
   <img src="./assets/background.svg" width="100%" alt="dashboard background" />
@@ -89,7 +89,7 @@ shipping_mode: iterative
 
 ---
 
-## 💻 04 — Terminal Boot Screen
+## 💻 Mission Logs
 
 <div align="center">
   <img src="./assets/terminal.svg" width="100%" alt="terminal boot screen"/>
@@ -120,7 +120,7 @@ roadmap.md
 
 ---
 
-## 👤 05 — About Me
+## 👤 About Me
 
 <div>
   <blockquote>
@@ -137,7 +137,7 @@ roadmap.md
 
 ---
 
-## 🛸 06 — Mission Control
+## 🛸 Skill Matrix
 
 <div align="center">
 
@@ -176,7 +176,7 @@ roadmap.md
 
 ---
 
-## 📡 07 — Current Status
+## 📡 Current Trajectory
 
 - 🔭 Building practical software systems
 - 🌱 Strengthening backend and API engineering
@@ -186,7 +186,7 @@ roadmap.md
 
 ---
 
-## 🧰 08 — Tech Arsenal
+## 🧰 Engineering Arsenal
 
 <div align="center">
 
@@ -226,7 +226,7 @@ Focus: Backend + Full Stack
 
 ---
 
-## 🧭 09 — Engineering Journey Timeline
+## 🧭 Journey & Timeline
 
 <div align="center">
   <img src="./assets/illustrations/timeline-core.svg" width="92%" alt="timeline core"/>
@@ -242,7 +242,7 @@ Focus: Backend + Full Stack
 
 ---
 
-## 🚀 10 — Featured Projects
+## 🚀 Featured Projects
 
 ### 1) Animal Shelter Management System
 <div>
@@ -282,7 +282,7 @@ Focus: Backend + Full Stack
 
 ---
 
-## 📈 11 — GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -308,7 +308,7 @@ Focus: Backend + Full Stack
 
 ---
 
-## 🌱 12 — Current Learning
+## 🌱 Current Focus
 
 - Backend service design fundamentals
 - API versioning and validation strategies
@@ -324,7 +324,7 @@ target_mode   = "production-readiness"
 
 ---
 
-## 🌍 13 — Open Source Goals
+## 🌍 Open Source Contributions
 
 1. Contribute meaningful fixes to beginner-friendly repos.
 2. Improve issue triaging and documentation quality.
@@ -334,7 +334,7 @@ target_mode   = "production-readiness"
 
 ---
 
-## 🧭 14 — Engineering Philosophy
+## 🧭 Engineering Philosophy
 
 > Good software is not loud.  
 > It is reliable, understandable, and useful.
@@ -347,7 +347,7 @@ target_mode   = "production-readiness"
 
 ---
 
-## 🎯 15 — Fun Facts
+## 🎯 Easter Eggs & Facts
 
 - I enjoy turning system diagrams into actual working code.
 - I treat debugging like investigation, not frustration.
@@ -384,14 +384,14 @@ target_mode   = "production-readiness"
 
 ---
 
-## 💬 16 — Quote
+## 💬 Philosophy
 
 > “First, solve the problem. Then, write the code.”  
 > — John Johnson
 
 ---
 
-## 🤝 17 — Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -418,7 +418,7 @@ contact_protocol:
 
 ---
 
-## 🧱 18 — Footer
+<!-- Footer -->
 
 <div align="center">
   <img src="./assets/footer.svg" width="100%" alt="footer"/>
