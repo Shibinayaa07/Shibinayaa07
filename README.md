@@ -286,16 +286,16 @@ Focus: Backend + Full Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shibinayaa07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=F0F6FC" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shibinayaa07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=F0F6FC" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Shibinayaa07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=F0F6FC" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibinayaa07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shibinayaa07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shibinayaa07&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Shibinayaa07&theme=algolia&no-frame=true&no-bg=true&margin-w=10" /> (Currently down due to Vercel limits) -->
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Shibinayaa07&label=Profile%20Views&color=58A6FF&style=flat" />
 <img src="https://img.shields.io/badge/Visitors-Live-3FB950?style=flat&labelColor=0D1117" />
