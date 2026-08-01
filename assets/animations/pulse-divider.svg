@@ -1,0 +1,6 @@
+<svg width="1200" height="24" viewBox="0 0 1200 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 12H520L540 4L560 20L580 12H1200" stroke="#58A6FF" stroke-width="2"/>
+  <circle cx="560" cy="12" r="3" fill="#7C3AED">
+    <animate attributeName="r" values="3;6;3" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>

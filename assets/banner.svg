@@ -1,0 +1,82 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(380 130) rotate(25) scale(420 220)">
+      <stop stop-color="#58A6FF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1220 370) rotate(-15) scale(380 180)">
+      <stop stop-color="#7C3AED" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <rect width="1600" height="500" fill="url(#glow1)"/>
+  <rect width="1600" height="500" fill="url(#glow2)"/>
+
+  <!-- grid -->
+  <g opacity="0.2" stroke="#58A6FF" stroke-width="1">
+    <path d="M0 450 H1600"/>
+    <path d="M0 400 H1600"/>
+    <path d="M0 350 H1600"/>
+    <path d="M0 300 H1600"/>
+    <path d="M0 250 H1600"/>
+    <path d="M0 200 H1600"/>
+    <path d="M0 150 H1600"/>
+    <path d="M0 100 H1600"/>
+    <path d="M0 50 H1600"/>
+  </g>
+
+  <!-- circuit traces -->
+  <g stroke="#3FB950" stroke-opacity="0.4" stroke-width="2" fill="none">
+    <path d="M80 90 H240 V170 H420"/>
+    <circle cx="80" cy="90" r="4" fill="#3FB950"/>
+    <circle cx="240" cy="170" r="4" fill="#3FB950"/>
+    <circle cx="420" cy="170" r="4" fill="#3FB950"/>
+    <path d="M1520 420 H1340 V330 H1140"/>
+    <circle cx="1520" cy="420" r="4" fill="#3FB950"/>
+    <circle cx="1340" cy="330" r="4" fill="#3FB950"/>
+    <circle cx="1140" cy="330" r="4" fill="#3FB950"/>
+  </g>
+
+  <!-- laptop -->
+  <g transform="translate(560 170)">
+    <rect x="40" y="10" width="410" height="220" rx="18" fill="#0F172A" stroke="#58A6FF" stroke-opacity="0.7"/>
+    <rect x="58" y="28" width="374" height="182" rx="10" fill="#020617"/>
+    <rect x="0" y="230" width="490" height="26" rx="10" fill="#1E293B" stroke="#58A6FF" stroke-opacity="0.5"/>
+    <text x="78" y="64" fill="#58A6FF" font-size="18" font-family="monospace">$ init mission-control</text>
+    <text x="78" y="96" fill="#7C3AED" font-size="16" font-family="monospace">loading modules...</text>
+    <text x="78" y="126" fill="#3FB950" font-size="16" font-family="monospace">backend :: online</text>
+    <text x="78" y="154" fill="#F0F6FC" font-size="14" font-family="monospace">fullstack :: calibrating</text>
+    <text x="78" y="182" fill="#58A6FF" font-size="14" font-family="monospace">status :: stable</text>
+  </g>
+
+  <!-- floating icons -->
+  <g filter="url(#softGlow)">
+    <circle cx="260" cy="180" r="22" fill="#111827" stroke="#58A6FF"/>
+    <text x="248" y="186" font-size="16" fill="#58A6FF" font-family="monospace">{ }</text>
+    <circle cx="1310" cy="120" r="20" fill="#111827" stroke="#7C3AED"/>
+    <text x="1301" y="126" font-size="14" fill="#7C3AED" font-family="monospace">&lt;/&gt;</text>
+    <circle cx="1380" cy="300" r="20" fill="#111827" stroke="#3FB950"/>
+    <text x="1373" y="306" font-size="14" fill="#3FB950" font-family="monospace">⚙</text>
+  </g>
+
+  <!-- developer silhouette motif -->
+  <g opacity="0.9">
+    <ellipse cx="330" cy="340" rx="70" ry="50" fill="#111827" stroke="#58A6FF" stroke-opacity="0.5"/>
+    <circle cx="330" cy="290" r="28" fill="#1F2937" stroke="#7C3AED" stroke-opacity="0.7"/>
+  </g>
+
+  <text x="80" y="430" fill="#F0F6FC" font-size="38" font-family="Segoe UI, Arial">Shibinayaa S</text>
+  <text x="80" y="462" fill="#58A6FF" font-size="20" font-family="monospace">Building software that solves real-world problems.</text>
+
+  <animate attributeName="opacity" values="0.96;1;0.96" dur="3.6s" repeatCount="indefinite"/>
+</svg>

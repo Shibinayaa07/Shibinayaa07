@@ -1,0 +1,12 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="200" rx="18" fill="#0D1117"/>
+  <path d="M80 100H1120" stroke="#58A6FF" stroke-width="3"/>
+  <circle cx="180" cy="100" r="10" fill="#58A6FF"/>
+  <circle cx="420" cy="100" r="10" fill="#7C3AED"/>
+  <circle cx="660" cy="100" r="10" fill="#3FB950"/>
+  <circle cx="900" cy="100" r="10" fill="#58A6FF"/>
+  <text x="140" y="135" fill="#F0F6FC" font-family="monospace" font-size="14">Foundation</text>
+  <text x="380" y="135" fill="#F0F6FC" font-family="monospace" font-size="14">Transition</text>
+  <text x="620" y="135" fill="#F0F6FC" font-family="monospace" font-size="14">Applied Builds</text>
+  <text x="860" y="135" fill="#F0F6FC" font-family="monospace" font-size="14">Mission Now</text>
+</svg>

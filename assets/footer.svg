@@ -1,0 +1,13 @@
+<svg width="1600" height="180" viewBox="0 0 1600 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="180" fill="#0D1117"/>
+  <path d="M0 120 C200 90, 400 150, 600 120 C800 90, 1000 150, 1200 120 C1400 90, 1600 150, 1600 150" stroke="#58A6FF" stroke-opacity="0.5" stroke-width="2"/>
+  <path d="M0 140 C220 110, 420 170, 640 140 C860 110, 1080 170, 1300 140 C1450 120, 1600 150, 1600 150" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="2"/>
+  <g stroke="#3FB950" stroke-opacity="0.5" stroke-width="2">
+    <path d="M120 60 H320 V95 H520"/>
+    <circle cx="120" cy="60" r="3" fill="#3FB950"/>
+    <circle cx="320" cy="95" r="3" fill="#3FB950"/>
+    <circle cx="520" cy="95" r="3" fill="#3FB950"/>
+  </g>
+  <text x="800" y="52" text-anchor="middle" fill="#F0F6FC" font-size="18" font-family="monospace">Learn • Build • Innovate</text>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="4s" repeatCount="indefinite"/>
+</svg>
